@@ -1,7 +1,6 @@
 package com.webdriver.helper.utility;
 
 import java.io.InputStream;
-import java.net.URL;
 
 import org.apache.log4j.Logger;
 
